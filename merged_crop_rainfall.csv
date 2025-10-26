@@ -1,0 +1,572 @@
+State,Year,crop,Production,Rainfall
+Andhra Pradesh,2009,Rice,10538.0,790.5
+Andhra Pradesh,2009,Wheat,10.0,790.5
+Andhra Pradesh,2009,Pulses,1429.0,790.5
+Andhra Pradesh,2009,Sugarcane,11708.0,790.5
+Andhra Pradesh,2009,Cotton,3227.0,790.5
+Andhra Pradesh,2010,Rice,14418.0,1712.4
+Andhra Pradesh,2010,Wheat,13.0,1712.4
+Andhra Pradesh,2010,Pulses,1440.0,1712.4
+Andhra Pradesh,2010,Sugarcane,14964.0,1712.4
+Andhra Pradesh,2010,Cotton,5300.0,1712.4
+Andhra Pradesh,2011,Rice,12895.0,861.9
+Andhra Pradesh,2011,Wheat,11.0,861.9
+Andhra Pradesh,2011,Pulses,1230.0,861.9
+Andhra Pradesh,2011,Sugarcane,16686.0,861.9
+Andhra Pradesh,2011,Cotton,4900.0,861.9
+Andhra Pradesh,2012,Rice,11510.0,1318.4
+Andhra Pradesh,2012,Wheat,10.0,1318.4
+Andhra Pradesh,2012,Pulses,1623.0,1318.4
+Andhra Pradesh,2012,Sugarcane,15567.0,1318.4
+Andhra Pradesh,2012,Cotton,7350.0,1318.4
+Andhra Pradesh,2013,Rice,12724.71,1120.5
+Andhra Pradesh,2013,Wheat,4.0,1120.5
+Andhra Pradesh,2013,Pulses,1551.0,1120.5
+Andhra Pradesh,2013,Sugarcane,15385.0,1120.5
+Andhra Pradesh,2013,Cotton,6956.0,1120.5
+Arunachal Pradesh,2009,Rice,216.0,1749.9
+Arunachal Pradesh,2009,Wheat,5.0,1749.9
+Arunachal Pradesh,2009,Pulses,10.0,1749.9
+Arunachal Pradesh,2009,Sugarcane,27.0,1749.9
+Arunachal Pradesh,2010,Rice,234.0,2855.7
+Arunachal Pradesh,2010,Wheat,6.0,2855.7
+Arunachal Pradesh,2010,Pulses,9.0,2855.7
+Arunachal Pradesh,2010,Sugarcane,29.0,2855.7
+Arunachal Pradesh,2011,Rice,255.0,2193.7
+Arunachal Pradesh,2011,Wheat,7.0,2193.7
+Arunachal Pradesh,2011,Pulses,11.0,2193.7
+Arunachal Pradesh,2011,Sugarcane,30.0,2193.7
+Arunachal Pradesh,2012,Rice,263.0,3440.3
+Arunachal Pradesh,2012,Wheat,4.0,3440.3
+Arunachal Pradesh,2012,Pulses,11.0,3440.3
+Arunachal Pradesh,2012,Sugarcane,30.0,3440.3
+Assam,2009,Rice,4336.0,2068.2
+Assam,2009,Wheat,64.0,2068.2
+Assam,2009,Pulses,65.0,2068.2
+Assam,2009,Sugarcane,1059.0,2068.2
+Assam,2009,Cotton,1.0,2068.2
+Assam,2010,Rice,4737.0,2711.5
+Assam,2010,Wheat,53.0,2711.5
+Assam,2010,Pulses,70.0,2711.5
+Assam,2010,Sugarcane,1075.0,2711.5
+Assam,2011,Rice,4516.0,1743.4
+Assam,2011,Wheat,60.0,1743.4
+Assam,2011,Pulses,69.0,1743.4
+Assam,2011,Sugarcane,994.0,1743.4
+Assam,2012,Rice,5129.0,2609.4
+Assam,2012,Wheat,44.0,2609.4
+Assam,2012,Pulses,84.0,2609.4
+Assam,2012,Sugarcane,1028.0,2609.4
+Assam,2013,Rice,4927.12,1816.4
+Assam,2013,Wheat,40.44,1816.4
+Assam,2013,Pulses,104.31,1816.4
+Assam,2013,Sugarcane,1075.17,1816.4
+Bihar,2009,Rice,3599.0,889.3
+Bihar,2009,Wheat,4571.0,889.3
+Bihar,2009,Pulses,472.0,889.3
+Bihar,2009,Sugarcane,5033.0,889.3
+Bihar,2010,Rice,3102.0,629.2
+Bihar,2010,Wheat,4098.0,629.2
+Bihar,2010,Pulses,538.0,629.2
+Bihar,2010,Sugarcane,12764.0,629.2
+Bihar,2011,Rice,7163.0,1097.1
+Bihar,2011,Wheat,4725.0,1097.1
+Bihar,2011,Pulses,511.0,1097.1
+Bihar,2011,Sugarcane,11289.0,1097.1
+Bihar,2012,Rice,7529.0,1032.4
+Bihar,2012,Wheat,5357.0,1032.4
+Bihar,2012,Pulses,543.0,1032.4
+Bihar,2012,Sugarcane,12741.0,1032.4
+Bihar,2013,Rice,5505.85,1069.9
+Bihar,2013,Wheat,4738.03,1069.9
+Bihar,2013,Pulses,522.04,1069.9
+Bihar,2013,Sugarcane,12881.78,1069.9
+Chhattisgarh,2009,Rice,4110.0,956.6
+Chhattisgarh,2009,Wheat,122.0,956.6
+Chhattisgarh,2009,Pulses,489.0,956.6
+Chhattisgarh,2009,Sugarcane,29.0,956.6
+Chhattisgarh,2010,Rice,6159.0,1306.6
+Chhattisgarh,2010,Wheat,127.0,1306.6
+Chhattisgarh,2010,Pulses,538.0,1306.6
+Chhattisgarh,2010,Sugarcane,22.0,1306.6
+Chhattisgarh,2011,Rice,6028.0,1302.7
+Chhattisgarh,2011,Wheat,133.0,1302.7
+Chhattisgarh,2011,Pulses,499.0,1302.7
+Chhattisgarh,2011,Sugarcane,24.0,1302.7
+Chhattisgarh,2012,Rice,6609.0,1377.4
+Chhattisgarh,2012,Wheat,141.0,1377.4
+Chhattisgarh,2012,Pulses,649.0,1377.4
+Chhattisgarh,2012,Sugarcane,37.0,1377.4
+Chhattisgarh,2013,Rice,6716.4,1420.0
+Chhattisgarh,2013,Wheat,134.0,1420.0
+Chhattisgarh,2013,Pulses,482.1,1420.0
+Chhattisgarh,2013,Sugarcane,22.1,1420.0
+Goa,2009,Rice,101.0,2716.6
+Goa,2009,Pulses,9.0,2716.6
+Goa,2009,Sugarcane,52.0,2716.6
+Goa,2010,Rice,115.0,3778.1
+Goa,2010,Pulses,8.0,3778.1
+Goa,2010,Sugarcane,49.0,3778.1
+Goa,2011,Rice,122.0,3825.2
+Goa,2011,Pulses,8.0,3825.2
+Goa,2011,Sugarcane,47.0,3825.2
+Goa,2012,Rice,123.0,3018.4
+Goa,2012,Pulses,9.0,3018.4
+Goa,2012,Sugarcane,46.0,3018.4
+Gujarat,2009,Rice,1292.0,641.6
+Gujarat,2009,Rice,1292.0,596.9
+Gujarat,2009,Wheat,2352.0,641.6
+Gujarat,2009,Wheat,2352.0,596.9
+Gujarat,2009,Pulses,517.0,641.6
+Gujarat,2009,Pulses,517.0,596.9
+Gujarat,2009,Sugarcane,12400.0,641.6
+Gujarat,2009,Sugarcane,12400.0,596.9
+Gujarat,2009,Cotton,7986.0,641.6
+Gujarat,2009,Cotton,7986.0,596.9
+Gujarat,2010,Rice,1497.0,1088.7
+Gujarat,2010,Rice,1497.0,1119.9
+Gujarat,2010,Wheat,4020.0,1088.7
+Gujarat,2010,Wheat,4020.0,1119.9
+Gujarat,2010,Pulses,723.0,1088.7
+Gujarat,2010,Pulses,723.0,1119.9
+Gujarat,2010,Sugarcane,13760.0,1088.7
+Gujarat,2010,Sugarcane,13760.0,1119.9
+Gujarat,2010,Cotton,10400.0,1088.7
+Gujarat,2010,Cotton,10400.0,1119.9
+Gujarat,2011,Rice,1790.0,890.5
+Gujarat,2011,Rice,1790.0,742.5
+Gujarat,2011,Wheat,4072.0,890.5
+Gujarat,2011,Wheat,4072.0,742.5
+Gujarat,2011,Pulses,780.0,890.5
+Gujarat,2011,Pulses,780.0,742.5
+Gujarat,2011,Sugarcane,12750.0,890.5
+Gujarat,2011,Sugarcane,12750.0,742.5
+Gujarat,2011,Cotton,12000.0,890.5
+Gujarat,2011,Cotton,12000.0,742.5
+Gujarat,2012,Rice,1541.0,714.0
+Gujarat,2012,Rice,1541.0,323.8
+Gujarat,2012,Wheat,2944.0,714.0
+Gujarat,2012,Wheat,2944.0,323.8
+Gujarat,2012,Pulses,572.0,714.0
+Gujarat,2012,Pulses,572.0,323.8
+Gujarat,2012,Sugarcane,12690.0,714.0
+Gujarat,2012,Sugarcane,12690.0,323.8
+Gujarat,2012,Cotton,8850.0,714.0
+Gujarat,2012,Cotton,8850.0,323.8
+Gujarat,2013,Rice,1636.0,1118.6
+Gujarat,2013,Rice,1636.0,681.8
+Gujarat,2013,Wheat,4694.0,1118.6
+Gujarat,2013,Wheat,4694.0,681.8
+Gujarat,2013,Pulses,729.0,1118.6
+Gujarat,2013,Pulses,729.0,681.8
+Gujarat,2013,Sugarcane,12550.0,1118.6
+Gujarat,2013,Sugarcane,12550.0,681.8
+Gujarat,2013,Cotton,10150.0,1118.6
+Gujarat,2013,Cotton,10150.0,681.8
+Himachal Pradesh,2009,Rice,106.0,956.5
+Himachal Pradesh,2009,Wheat,327.0,956.5
+Himachal Pradesh,2009,Pulses,21.0,956.5
+Himachal Pradesh,2009,Sugarcane,46.0,956.5
+Himachal Pradesh,2010,Rice,129.0,1259.4
+Himachal Pradesh,2010,Wheat,547.0,1259.4
+Himachal Pradesh,2010,Pulses,42.0,1259.4
+Himachal Pradesh,2010,Sugarcane,38.0,1259.4
+Himachal Pradesh,2011,Rice,132.0,1108.3
+Himachal Pradesh,2011,Wheat,596.0,1108.3
+Himachal Pradesh,2011,Pulses,31.0,1108.3
+Himachal Pradesh,2011,Sugarcane,28.0,1108.3
+Himachal Pradesh,2012,Rice,125.0,951.6
+Himachal Pradesh,2012,Wheat,609.0,951.6
+Himachal Pradesh,2012,Pulses,46.0,951.6
+Himachal Pradesh,2012,Sugarcane,42.0,951.6
+Himachal Pradesh,2013,Rice,120.83,1211.9
+Himachal Pradesh,2013,Wheat,670.72,1211.9
+Himachal Pradesh,2013,Pulses,51.04,1211.9
+Himachal Pradesh,2013,Sugarcane,35.69,1211.9
+Jharkhand,2009,Rice,1538.0,996.1
+Jharkhand,2009,Wheat,173.0,996.1
+Jharkhand,2009,Pulses,224.0,996.1
+Jharkhand,2009,Sugarcane,447.0,996.1
+Jharkhand,2010,Rice,1110.0,697.1
+Jharkhand,2010,Wheat,158.0,697.1
+Jharkhand,2010,Pulses,330.0,697.1
+Jharkhand,2010,Sugarcane,457.0,697.1
+Jharkhand,2011,Rice,3131.0,1374.7
+Jharkhand,2011,Wheat,303.0,1374.7
+Jharkhand,2011,Pulses,412.0,1374.7
+Jharkhand,2011,Sugarcane,457.0,1374.7
+Jharkhand,2012,Rice,3165.0,1065.0
+Jharkhand,2012,Wheat,319.0,1065.0
+Jharkhand,2012,Pulses,609.0,1065.0
+Jharkhand,2012,Sugarcane,462.0,1065.0
+Jharkhand,2013,Rice,2810.64,1253.6
+Jharkhand,2013,Wheat,370.37,1253.6
+Jharkhand,2013,Pulses,578.62,1253.6
+Jharkhand,2013,Sugarcane,462.84,1253.6
+Karnataka,2009,Rice,3691.0,3862.0
+Karnataka,2009,Rice,3691.0,913.5
+Karnataka,2009,Rice,3691.0,1158.4
+Karnataka,2009,Wheat,251.0,3862.0
+Karnataka,2009,Wheat,251.0,913.5
+Karnataka,2009,Wheat,251.0,1158.4
+Karnataka,2009,Pulses,1118.0,3862.0
+Karnataka,2009,Pulses,1118.0,913.5
+Karnataka,2009,Pulses,1118.0,1158.4
+Karnataka,2009,Sugarcane,30443.0,3862.0
+Karnataka,2009,Sugarcane,30443.0,913.5
+Karnataka,2009,Sugarcane,30443.0,1158.4
+Karnataka,2009,Cotton,868.0,3862.0
+Karnataka,2009,Cotton,868.0,913.5
+Karnataka,2009,Cotton,868.0,1158.4
+Karnataka,2010,Rice,4188.0,3686.8
+Karnataka,2010,Rice,4188.0,853.2
+Karnataka,2010,Rice,4188.0,1239.7
+Karnataka,2010,Wheat,279.0,3686.8
+Karnataka,2010,Wheat,279.0,853.2
+Karnataka,2010,Wheat,279.0,1239.7
+Karnataka,2010,Pulses,1565.0,3686.8
+Karnataka,2010,Pulses,1565.0,853.2
+Karnataka,2010,Pulses,1565.0,1239.7
+Karnataka,2010,Sugarcane,39657.0,3686.8
+Karnataka,2010,Sugarcane,39657.0,853.2
+Karnataka,2010,Sugarcane,39657.0,1239.7
+Karnataka,2010,Cotton,1200.0,3686.8
+Karnataka,2010,Cotton,1200.0,853.2
+Karnataka,2010,Cotton,1200.0,1239.7
+Karnataka,2011,Rice,3955.0,3908.6
+Karnataka,2011,Rice,3955.0,655.2
+Karnataka,2011,Rice,3955.0,1087.4
+Karnataka,2011,Wheat,193.0,3908.6
+Karnataka,2011,Wheat,193.0,655.2
+Karnataka,2011,Wheat,193.0,1087.4
+Karnataka,2011,Pulses,1134.0,3908.6
+Karnataka,2011,Pulses,1134.0,655.2
+Karnataka,2011,Pulses,1134.0,1087.4
+Karnataka,2011,Sugarcane,38808.0,3908.6
+Karnataka,2011,Sugarcane,38808.0,655.2
+Karnataka,2011,Sugarcane,38808.0,1087.4
+Karnataka,2011,Cotton,1200.0,3908.6
+Karnataka,2011,Cotton,1200.0,655.2
+Karnataka,2011,Cotton,1200.0,1087.4
+Karnataka,2012,Rice,3364.0,583.8
+Karnataka,2012,Rice,3364.0,877.8
+Karnataka,2012,Wheat,179.0,583.8
+Karnataka,2012,Wheat,179.0,877.8
+Karnataka,2012,Pulses,1259.0,583.8
+Karnataka,2012,Pulses,1259.0,877.8
+Karnataka,2012,Sugarcane,35732.0,583.8
+Karnataka,2012,Sugarcane,35732.0,877.8
+Karnataka,2012,Cotton,1255.0,583.8
+Karnataka,2012,Cotton,1255.0,877.8
+Karnataka,2013,Rice,3572.56,4229.4
+Karnataka,2013,Rice,3572.56,723.2
+Karnataka,2013,Rice,3572.56,1110.7
+Karnataka,2013,Wheat,210.0,4229.4
+Karnataka,2013,Wheat,210.0,723.2
+Karnataka,2013,Wheat,210.0,1110.7
+Karnataka,2013,Pulses,1600.51,4229.4
+Karnataka,2013,Pulses,1600.51,723.2
+Karnataka,2013,Pulses,1600.51,1110.7
+Karnataka,2013,Sugarcane,37905.0,4229.4
+Karnataka,2013,Sugarcane,37905.0,723.2
+Karnataka,2013,Sugarcane,37905.0,1110.7
+Karnataka,2013,Cotton,1875.0,4229.4
+Karnataka,2013,Cotton,1875.0,723.2
+Karnataka,2013,Cotton,1875.0,1110.7
+Kerala,2009,Rice,598.0,2810.6
+Kerala,2009,Pulses,10.0,2810.6
+Kerala,2009,Sugarcane,285.0,2810.6
+Kerala,2009,Cotton,1.0,2810.6
+Kerala,2010,Rice,523.0,3131.8
+Kerala,2010,Pulses,3.0,3131.8
+Kerala,2010,Sugarcane,272.0,3131.8
+Kerala,2011,Rice,569.0,3035.1
+Kerala,2011,Pulses,3.0,3035.1
+Kerala,2011,Sugarcane,263.0,3035.1
+Kerala,2012,Rice,508.0,2151.1
+Kerala,2012,Pulses,3.0,2151.1
+Kerala,2012,Sugarcane,166.0,2151.1
+Kerala,2013,Rice,509.2,3255.4
+Kerala,2013,Pulses,4.0,3255.4
+Kerala,2013,Sugarcane,221.52,3255.4
+Madhya Pradesh,2009,Rice,1261.0,877.0
+Madhya Pradesh,2009,Rice,1261.0,943.9
+Madhya Pradesh,2009,Wheat,8410.0,877.0
+Madhya Pradesh,2009,Wheat,8410.0,943.9
+Madhya Pradesh,2009,Pulses,4305.0,877.0
+Madhya Pradesh,2009,Pulses,4305.0,943.9
+Madhya Pradesh,2009,Sugarcane,2535.0,877.0
+Madhya Pradesh,2009,Sugarcane,2535.0,943.9
+Madhya Pradesh,2009,Cotton,855.0,877.0
+Madhya Pradesh,2009,Cotton,855.0,943.9
+Madhya Pradesh,2010,Rice,1772.0,776.3
+Madhya Pradesh,2010,Rice,1772.0,960.4
+Madhya Pradesh,2010,Wheat,7627.0,776.3
+Madhya Pradesh,2010,Wheat,7627.0,960.4
+Madhya Pradesh,2010,Pulses,3386.0,776.3
+Madhya Pradesh,2010,Pulses,3386.0,960.4
+Madhya Pradesh,2010,Sugarcane,2667.0,776.3
+Madhya Pradesh,2010,Sugarcane,2667.0,960.4
+Madhya Pradesh,2010,Cotton,2000.0,776.3
+Madhya Pradesh,2010,Cotton,2000.0,960.4
+Madhya Pradesh,2011,Rice,2227.0,1063.9
+Madhya Pradesh,2011,Rice,2227.0,1275.2
+Madhya Pradesh,2011,Wheat,11539.0,1063.9
+Madhya Pradesh,2011,Wheat,11539.0,1275.2
+Madhya Pradesh,2011,Pulses,4162.0,1063.9
+Madhya Pradesh,2011,Pulses,4162.0,1275.2
+Madhya Pradesh,2011,Sugarcane,2677.0,1063.9
+Madhya Pradesh,2011,Sugarcane,2677.0,1275.2
+Madhya Pradesh,2011,Cotton,2000.0,1063.9
+Madhya Pradesh,2011,Cotton,2000.0,1275.2
+Madhya Pradesh,2012,Rice,2775.0,1035.2
+Madhya Pradesh,2012,Rice,2775.0,1053.1
+Madhya Pradesh,2012,Wheat,13133.0,1035.2
+Madhya Pradesh,2012,Wheat,13133.0,1053.1
+Madhya Pradesh,2012,Pulses,5166.0,1035.2
+Madhya Pradesh,2012,Pulses,5166.0,1053.1
+Madhya Pradesh,2012,Sugarcane,2642.0,1035.2
+Madhya Pradesh,2012,Sugarcane,2642.0,1053.1
+Madhya Pradesh,2012,Cotton,2200.0,1035.2
+Madhya Pradesh,2012,Cotton,2200.0,1053.1
+Madhya Pradesh,2013,Rice,2844.82,1396.3
+Madhya Pradesh,2013,Rice,2844.82,1521.9
+Madhya Pradesh,2013,Wheat,12937.02,1396.3
+Madhya Pradesh,2013,Wheat,12937.02,1521.9
+Madhya Pradesh,2013,Pulses,4644.32,1396.3
+Madhya Pradesh,2013,Pulses,4644.32,1521.9
+Madhya Pradesh,2013,Sugarcane,3173.67,1396.3
+Madhya Pradesh,2013,Sugarcane,3173.67,1521.9
+Madhya Pradesh,2013,Cotton,1730.0,1396.3
+Madhya Pradesh,2013,Cotton,1730.0,1521.9
+Maharashtra,2009,Rice,2183.0,941.7
+Maharashtra,2009,Rice,2183.0,770.8
+Maharashtra,2009,Wheat,1740.0,941.7
+Maharashtra,2009,Wheat,1740.0,770.8
+Maharashtra,2009,Pulses,2370.0,941.7
+Maharashtra,2009,Pulses,2370.0,770.8
+Maharashtra,2009,Sugarcane,64159.0,941.7
+Maharashtra,2009,Sugarcane,64159.0,770.8
+Maharashtra,2009,Cotton,5859.0,941.7
+Maharashtra,2009,Cotton,5859.0,770.8
+Maharashtra,2010,Rice,2696.0,1027.5
+Maharashtra,2010,Rice,2696.0,1338.1
+Maharashtra,2010,Wheat,2301.0,1027.5
+Maharashtra,2010,Wheat,2301.0,1338.1
+Maharashtra,2010,Pulses,3100.0,1027.5
+Maharashtra,2010,Pulses,3100.0,1338.1
+Maharashtra,2010,Sugarcane,81896.0,1027.5
+Maharashtra,2010,Sugarcane,81896.0,1338.1
+Maharashtra,2010,Cotton,8500.0,1027.5
+Maharashtra,2010,Cotton,8500.0,1338.1
+Maharashtra,2011,Rice,2841.0,852.6
+Maharashtra,2011,Rice,2841.0,893.2
+Maharashtra,2011,Wheat,1313.0,852.6
+Maharashtra,2011,Wheat,1313.0,893.2
+Maharashtra,2011,Pulses,2268.0,852.6
+Maharashtra,2011,Pulses,2268.0,893.2
+Maharashtra,2011,Sugarcane,86733.0,852.6
+Maharashtra,2011,Sugarcane,86733.0,893.2
+Maharashtra,2011,Cotton,7200.0,852.6
+Maharashtra,2011,Cotton,7200.0,893.2
+Maharashtra,2012,Rice,3057.0,689.8
+Maharashtra,2012,Rice,3057.0,1107.7
+Maharashtra,2012,Wheat,1181.0,689.8
+Maharashtra,2012,Wheat,1181.0,1107.7
+Maharashtra,2012,Pulses,2306.0,689.8
+Maharashtra,2012,Pulses,2306.0,1107.7
+Maharashtra,2012,Sugarcane,69648.0,689.8
+Maharashtra,2012,Sugarcane,69648.0,1107.7
+Maharashtra,2012,Cotton,7655.0,689.8
+Maharashtra,2012,Cotton,7655.0,1107.7
+Maharashtra,2013,Rice,3120.0,962.4
+Maharashtra,2013,Rice,3120.0,1520.0
+Maharashtra,2013,Wheat,1602.0,962.4
+Maharashtra,2013,Wheat,1602.0,1520.0
+Maharashtra,2013,Pulses,3169.0,962.4
+Maharashtra,2013,Pulses,3169.0,1520.0
+Maharashtra,2013,Sugarcane,76901.0,962.4
+Maharashtra,2013,Sugarcane,76901.0,1520.0
+Maharashtra,2013,Cotton,8834.0,962.4
+Maharashtra,2013,Cotton,8834.0,1520.0
+Odisha,2009,Rice,6918.0,1330.3
+Odisha,2009,Wheat,6.0,1330.3
+Odisha,2009,Pulses,399.0,1330.3
+Odisha,2009,Sugarcane,490.0,1330.3
+Odisha,2009,Cotton,147.0,1330.3
+Odisha,2010,Rice,6828.0,1291.9
+Odisha,2010,Wheat,4.0,1291.9
+Odisha,2010,Pulses,427.0,1291.9
+Odisha,2010,Sugarcane,903.0,1291.9
+Odisha,2010,Cotton,250.0,1291.9
+Odisha,2011,Rice,5807.0,1346.2
+Odisha,2011,Pulses,343.0,1346.2
+Odisha,2011,Sugarcane,885.0,1346.2
+Odisha,2011,Cotton,325.0,1346.2
+Odisha,2012,Rice,7295.0,1405.9
+Odisha,2012,Wheat,2.0,1405.9
+Odisha,2012,Pulses,424.0,1405.9
+Odisha,2012,Sugarcane,952.0,1405.9
+Odisha,2012,Cotton,400.0,1405.9
+Odisha,2013,Rice,7613.41,1632.4
+Odisha,2013,Wheat,1.07,1632.4
+Odisha,2013,Pulses,419.26,1632.4
+Odisha,2013,Sugarcane,936.51,1632.4
+Odisha,2013,Cotton,299.0,1632.4
+Punjab,2009,Rice,11236.0,361.2
+Punjab,2009,Wheat,15169.0,361.2
+Punjab,2009,Pulses,18.0,361.2
+Punjab,2009,Sugarcane,3700.0,361.2
+Punjab,2009,Cotton,2006.0,361.2
+Punjab,2010,Rice,10837.0,451.5
+Punjab,2010,Wheat,16472.0,451.5
+Punjab,2010,Pulses,19.0,451.5
+Punjab,2010,Sugarcane,4170.0,451.5
+Punjab,2010,Cotton,2100.0,451.5
+Punjab,2011,Rice,10542.0,705.2
+Punjab,2011,Wheat,17280.0,705.2
+Punjab,2011,Pulses,15.0,705.2
+Punjab,2011,Sugarcane,5653.0,705.2
+Punjab,2011,Cotton,2300.0,705.2
+Punjab,2012,Rice,11374.0,493.6
+Punjab,2012,Wheat,16591.0,493.6
+Punjab,2012,Pulses,53.0,493.6
+Punjab,2012,Sugarcane,5919.0,493.6
+Punjab,2012,Cotton,2000.0,493.6
+Punjab,2013,Rice,11267.0,586.6
+Punjab,2013,Wheat,17620.0,586.6
+Punjab,2013,Pulses,39.6,586.6
+Punjab,2013,Sugarcane,6675.0,586.6
+Punjab,2013,Cotton,1968.0,586.6
+Rajasthan,2009,Rice,228.0,160.4
+Rajasthan,2009,Rice,228.0,414.1
+Rajasthan,2009,Wheat,7501.0,160.4
+Rajasthan,2009,Wheat,7501.0,414.1
+Rajasthan,2009,Pulses,714.0,160.4
+Rajasthan,2009,Pulses,714.0,414.1
+Rajasthan,2009,Sugarcane,345.0,160.4
+Rajasthan,2009,Sugarcane,345.0,414.1
+Rajasthan,2009,Cotton,903.0,160.4
+Rajasthan,2009,Cotton,903.0,414.1
+Rajasthan,2010,Rice,266.0,473.2
+Rajasthan,2010,Rice,266.0,689.4
+Rajasthan,2010,Wheat,7215.0,473.2
+Rajasthan,2010,Wheat,7215.0,689.4
+Rajasthan,2010,Pulses,3260.0,473.2
+Rajasthan,2010,Pulses,3260.0,689.4
+Rajasthan,2010,Sugarcane,368.0,473.2
+Rajasthan,2010,Sugarcane,368.0,689.4
+Rajasthan,2010,Cotton,900.0,473.2
+Rajasthan,2010,Cotton,900.0,689.4
+Rajasthan,2011,Rice,253.0,418.7
+Rajasthan,2011,Rice,253.0,802.1
+Rajasthan,2011,Wheat,9320.0,418.7
+Rajasthan,2011,Wheat,9320.0,802.1
+Rajasthan,2011,Pulses,2432.0,418.7
+Rajasthan,2011,Pulses,2432.0,802.1
+Rajasthan,2011,Sugarcane,451.0,418.7
+Rajasthan,2011,Sugarcane,451.0,802.1
+Rajasthan,2011,Cotton,1335.0,418.7
+Rajasthan,2011,Cotton,1335.0,802.1
+Rajasthan,2012,Rice,223.0,327.3
+Rajasthan,2012,Rice,223.0,693.6
+Rajasthan,2012,Wheat,9275.0,327.3
+Rajasthan,2012,Wheat,9275.0,693.6
+Rajasthan,2012,Pulses,1957.0,327.3
+Rajasthan,2012,Pulses,1957.0,693.6
+Rajasthan,2012,Sugarcane,402.0,327.3
+Rajasthan,2012,Sugarcane,402.0,693.6
+Rajasthan,2012,Cotton,1400.0,327.3
+Rajasthan,2012,Cotton,1400.0,693.6
+Rajasthan,2013,Rice,312.56,389.4
+Rajasthan,2013,Rice,312.56,836.1
+Rajasthan,2013,Wheat,8663.23,389.4
+Rajasthan,2013,Wheat,8663.23,836.1
+Rajasthan,2013,Pulses,2490.89,389.4
+Rajasthan,2013,Pulses,2490.89,836.1
+Rajasthan,2013,Sugarcane,362.88,389.4
+Rajasthan,2013,Sugarcane,362.88,836.1
+Rajasthan,2013,Cotton,1287.0,389.4
+Rajasthan,2013,Cotton,1287.0,836.1
+Tamil Nadu,2009,Rice,5665.0,928.5
+Tamil Nadu,2009,Pulses,204.0,928.5
+Tamil Nadu,2009,Sugarcane,29746.0,928.5
+Tamil Nadu,2009,Cotton,225.0,928.5
+Tamil Nadu,2010,Rice,5792.0,1095.2
+Tamil Nadu,2010,Pulses,246.0,1095.2
+Tamil Nadu,2010,Sugarcane,34252.0,1095.2
+Tamil Nadu,2010,Cotton,450.0,1095.2
+Tamil Nadu,2011,Rice,7459.0,926.5
+Tamil Nadu,2011,Pulses,369.0,926.5
+Tamil Nadu,2011,Sugarcane,38576.0,926.5
+Tamil Nadu,2011,Cotton,450.0,926.5
+Tamil Nadu,2012,Rice,4050.0,636.1
+Tamil Nadu,2012,Pulses,210.0,636.1
+Tamil Nadu,2012,Sugarcane,33919.0,636.1
+Tamil Nadu,2012,Cotton,500.0,636.1
+Tamil Nadu,2013,Rice,5349.76,741.9
+Tamil Nadu,2013,Pulses,613.79,741.9
+Tamil Nadu,2013,Sugarcane,32454.14,741.9
+Tamil Nadu,2013,Cotton,408.0,741.9
+Uttar Pradesh,2009,Rice,10807.0,610.2
+Uttar Pradesh,2009,Rice,10807.0,549.2
+Uttar Pradesh,2009,Wheat,27518.0,610.2
+Uttar Pradesh,2009,Wheat,27518.0,549.2
+Uttar Pradesh,2009,Pulses,1901.0,610.2
+Uttar Pradesh,2009,Pulses,1901.0,549.2
+Uttar Pradesh,2009,Sugarcane,117140.0,610.2
+Uttar Pradesh,2009,Sugarcane,117140.0,549.2
+Uttar Pradesh,2009,Cotton,5.0,610.2
+Uttar Pradesh,2009,Cotton,5.0,549.2
+Uttar Pradesh,2010,Rice,11992.0,692.2
+Uttar Pradesh,2010,Rice,11992.0,820.7
+Uttar Pradesh,2010,Wheat,30001.0,692.2
+Uttar Pradesh,2010,Wheat,30001.0,820.7
+Uttar Pradesh,2010,Pulses,2037.0,692.2
+Uttar Pradesh,2010,Pulses,2037.0,820.7
+Uttar Pradesh,2010,Sugarcane,120545.0,692.2
+Uttar Pradesh,2010,Sugarcane,120545.0,820.7
+Uttar Pradesh,2011,Rice,14022.0,781.2
+Uttar Pradesh,2011,Rice,14022.0,777.4
+Uttar Pradesh,2011,Wheat,30293.0,781.2
+Uttar Pradesh,2011,Wheat,30293.0,777.4
+Uttar Pradesh,2011,Pulses,2403.0,781.2
+Uttar Pradesh,2011,Pulses,2403.0,777.4
+Uttar Pradesh,2011,Sugarcane,128819.0,781.2
+Uttar Pradesh,2011,Sugarcane,128819.0,777.4
+Uttar Pradesh,2012,Rice,14416.0,602.7
+Uttar Pradesh,2012,Rice,14416.0,389.6
+Uttar Pradesh,2012,Wheat,30302.0,602.7
+Uttar Pradesh,2012,Wheat,30302.0,389.6
+Uttar Pradesh,2012,Pulses,2332.0,602.7
+Uttar Pradesh,2012,Pulses,2332.0,389.6
+Uttar Pradesh,2012,Sugarcane,132428.0,602.7
+Uttar Pradesh,2012,Sugarcane,132428.0,389.6
+Uttar Pradesh,2013,Rice,14636.0,1041.4
+Uttar Pradesh,2013,Rice,14636.0,932.8
+Uttar Pradesh,2013,Wheat,29890.88,1041.4
+Uttar Pradesh,2013,Wheat,29890.88,932.8
+Uttar Pradesh,2013,Pulses,1697.45,1041.4
+Uttar Pradesh,2013,Pulses,1697.45,932.8
+Uttar Pradesh,2013,Sugarcane,134688.62,1041.4
+Uttar Pradesh,2013,Sugarcane,134688.62,932.8
+Uttarakhand,2009,Rice,608.0,847.8
+Uttarakhand,2009,Wheat,845.0,847.8
+Uttarakhand,2009,Pulses,46.0,847.8
+Uttarakhand,2009,Sugarcane,5842.0,847.8
+Uttarakhand,2010,Rice,550.0,1424.0
+Uttarakhand,2010,Wheat,878.0,1424.0
+Uttarakhand,2010,Pulses,52.0,1424.0
+Uttarakhand,2010,Sugarcane,6498.0,1424.0
+Uttarakhand,2011,Rice,594.0,1564.7
+Uttarakhand,2011,Wheat,878.0,1564.7
+Uttarakhand,2011,Pulses,49.0,1564.7
+Uttarakhand,2011,Sugarcane,6311.0,1564.7
+Uttarakhand,2012,Rice,580.0,1223.9
+Uttarakhand,2012,Wheat,858.0,1223.9
+Uttarakhand,2012,Pulses,51.0,1223.9
+Uttarakhand,2012,Sugarcane,6785.0,1223.9
+Uttarakhand,2013,Rice,578.58,1735.4
+Uttarakhand,2013,Wheat,842.41,1735.4
+Uttarakhand,2013,Pulses,56.52,1735.4
+Uttarakhand,2013,Sugarcane,5939.8,1735.4
